@@ -4,7 +4,7 @@
 <p>
 <strong>Hi my name is Justin</strong>:japanese_goblin:, I go to school at the University of Washington
 
-<p> I recently escaped from Aberture Laboratories
+<p> I recently escaped from Aperture Laboratories
 	
 ![IMG_4564](https://user-images.githubusercontent.com/122058718/212222105-2d076a4f-4109-4d4e-87b0-8b6dab1bcc04.jpg)
 
