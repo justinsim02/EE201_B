@@ -5,7 +5,7 @@
 <strong>Hi my name is Justin</strong>:japanese_goblin:, I go to school at the University of Washington
 
 <p> I recently escaped from Aberture Laboratories
-![picture]("C:\Users\justi\Downloads\EE201_B\aboutMe\IMG_4564.jpg")
+<img src="C:\Users\justi\Downloads\EE201_B\aboutMe\IMG_4564.jpg" title = "wow">
 
 
 <p>Classes I'm taking this quarter:
