@@ -1,6 +1,12 @@
+/* 
+Alternates On/Off of system LED every 1s, 
+Output on Serial Display, distinguished between when LED off versus on
+
+Written by: Justin Sim
+Date: 1/19/2023
+*/
 void setup() {
-  // Serial.begin(9600)
-  // Pin 1 sends messages, Pin 0 receives, send messages by Serial.println("MESSAGE")
+
   pinMode(13, OUTPUT);
   pinMode(12, OUTPUT);                  
   Serial.begin(9600);
